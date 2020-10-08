@@ -1,0 +1,19 @@
+ #firtLink{
+  margin-left: 0.5em;
+}
+
+a {
+  margin-left: 2em;
+  color: black;
+  font-weight: bold;
+  font-size: medium;
+}
+
+input{
+  margin-left: 25em;
+}
+
+mat-icon {
+  margin-left: 1em;
+}
+

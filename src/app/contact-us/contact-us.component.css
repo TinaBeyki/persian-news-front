@@ -1,0 +1,13 @@
+input, textarea {
+  width: 50%;
+}
+
+#message {
+}
+
+button {
+  width: 50%;
+  height: 3em;
+  background-color: royalblue;
+  color: white;
+}

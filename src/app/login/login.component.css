@@ -1,0 +1,21 @@
+h2 {
+  margin: 1em 2em .5em 1.8em;
+}
+.border{
+  margin:3em 3em 0 60%;
+}
+
+
+.form-group {
+  margin: 2em;
+}
+
+
+button {
+  width: 28em;
+}
+
+#forgot {
+  font-size: small;
+  margin-left: 20em;
+}
